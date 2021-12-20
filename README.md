@@ -7,7 +7,7 @@
 
 - 예시 결과 화면
 1. summery
-![1](https://user-images.githubusercontent.com/62582611/146719387-da498b98-11c5-4701-9383-c0275a3a89b5.PNG)
+![1](https://user-images.githubusercontent.com/62582611/146719626-365e405c-ff68-41ce-aba0-5187c5420833.PNG)
 
 2. visualization
 ![2](https://user-images.githubusercontent.com/62582611/146719392-85c36b30-65ff-4fff-b4f4-24a60b2bd474.PNG)
